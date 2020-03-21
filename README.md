@@ -1,3 +1,5 @@
 - apple
 - pear
 - grapes
+- tomato
+- lemon

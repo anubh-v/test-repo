@@ -1,0 +1,17 @@
+{
+  "authors":
+  [
+    {
+      "githubId": "anubh-v",
+      "emails": ["anubhav@u.nus.edu"],
+      "displayName": "Anubhav",
+      "authorNames": ["anubh-v"]
+    },
+    {
+      "githubId": "Bob",
+      "emails": ["bob@u.nus.edu"],
+      "displayName": "Bob",
+      "authorNames": ["anubh-v"]
+    }
+  ]
+}
